@@ -1,4 +1,4 @@
-# codewars kata-maven-archetype
+# Codewars Kata Template Maven Archetype
 
 Build a kata template quickly using a maven archetype
 
